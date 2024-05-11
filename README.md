@@ -2,6 +2,9 @@
 
 criar um projeto usando generativo AI da google, gimini.
 
+<img src="work-dd0908f-2302-4c4f-87c9-d23630abcd54.jpg" alt="Descrição da imagem">
+
+
 # 1. Motivação:
 
 O mercado de trabalho brasileiro é complexo e as leis trabalhistas podem ser difíceis de entender, especialmente para quem não possui conhecimento jurídico. Isso pode gerar insegurança e frustração para os trabalhadores, que muitas vezes não sabem como defender seus direitos e muitas vezes nem sabem seus direitos
