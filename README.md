@@ -10,7 +10,7 @@ Criar um aplicativo de agente virtual que utilize inteligência artificial (IA) 
 
 - **Responder perguntas frequentes**: O agente virtual será treinado com base na CLT e em outras leis trabalhistas, para que possa responder perguntas frequentes sobre diversos temas, como férias, horas extras, rescisão de contrato, entre outros.
 - **Fornecer informações personalizadas**: O agente virtual também poderá fornecer informações personalizadas com base na situação específica do trabalhador. Para isso, o trabalhador poderá fornecer informações sobre seu caso, como tipo de contrato, cargo, tempo de serviço, etc.
-- **Indicar um advogado**: Se o trabalhador precisar de um suporte mais especializado, o aplicativo poderá indicar um advogado mais perto de sua região. O aplicativo também poderá enviar ao advogado uma sumarização da --conversa com o trabalhador, com a autorização do mesmo.
+- **Indicar um advogado**: Se o trabalhador precisar de um suporte mais especializado ou para com processo na justiça, o aplicativo poderá indicar um advogado mais perto de sua região. O aplicativo também poderá enviar ao advogado uma sumarização da --conversa entre o trabalhador e o agente virtual, com a autorização do mesmo.
 - **Permitir o envio de dúvidas por texto ou voz**: O trabalhador poderá enviar suas dúvidas ao aplicativo por texto ou voz, de acordo com sua preferência.
 
   # 3.Arquitetura
