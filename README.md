@@ -1,4 +1,6 @@
-# alura-gimini
+# alura-gimini desafio
+
+criar um projeto usando generativo AI da google, gimini.
 
 # 1. Motivação:
 
