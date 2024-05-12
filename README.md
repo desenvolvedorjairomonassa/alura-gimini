@@ -21,5 +21,11 @@ Criar um aplicativo de agente virtual que utilize inteligência artificial (IA) 
   # 3.Arquitetura
 
   O aplicativo será desenvolvido utilizando a tecnologia Gemini, uma plataforma de IA da Google. O Gemini será utilizado para treinar o agente virtual com base na CLT e em outras leis trabalhistas. A CLT será vetorizada para que possa ser facilmente consultada pelo agente virtual. A consulta será feita por similaridade, o que significa que o agente virtual irá procurar por leis que sejam semelhantes à dúvida do trabalhador.
-  a v1 pretendo usar somente o gimini, sem considerar fazer nenhum tunning e nem fazer nem um evaluation de modelo, a não ser uma validação manual, verificando se a resposta está de acordo. Fazendo os primeiros testes, ele começou a bloquear as respostas pois, as pessoas podem enviar "discurso de ódio", como por exemplo: "meu partão não me dá férias"
-  Já estou analisando em colocar um documento de clt para dar mais credibilidade trazendo grounding
+  
+  a v1 pretendo usar somente o gimini, sem considerar fazer nenhum tunning e nem fazer nem um evaluation de modelo, a não ser uma validação manual, verificando se a resposta está de acordo. Fazendo os primeiros testes, ele começou a bloquear as respostas pois, as pessoas podem enviar "discurso de ódio", como por exemplo: "meu partão não me dá férias".
+  
+  Já estou analisando em colocar um documento de clt para dar mais credibilidade trazendo grounding.
+
+  # 4.Nome do aplicativo : Justiça na mão ou Justiça na Palma da mão
+  
+  # 5. Nome do agente virtual : Justino ou Justina
