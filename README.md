@@ -26,6 +26,10 @@ Criar um aplicativo de agente virtual que utilize inteligência artificial (IA) 
   
   Já estou analisando em colocar um documento de clt para dar mais credibilidade trazendo grounding.
 
-  # 4.Nome do aplicativo : Justiça na mão ou Justiça na Palma da mão
+  # 4.Nome do aplicativo
+
+   Justiça na mão ou Justiça na Palma da mão
   
-  # 5. Nome do agente virtual : Justino ou Justina
+  # 5. Nome do agente virtual
+
+  Justino ou Justina
