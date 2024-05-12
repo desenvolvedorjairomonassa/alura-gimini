@@ -34,7 +34,8 @@ Criar um aplicativo de agente virtual que utilize inteligência artificial (IA) 
   1 - Utilizando cloud run para criar o indíce e outro para fazer os RAG
   <img src="Captura de tela 2024-05-11 221723.png" alt="Descrição da imagem">
 
-  2. Alternativamente, ao invés de cloud Run, poderia usar Dialogflow
+  2. Alternativamente, ao invés de cloud Run, poderia usar Dialogflow:
+   <img src="Captura de tela 2024-05-11 223714.png" alt="Descrição da imagem">
   
   3. Utilizando DLP para avaliar informações PII:
   
