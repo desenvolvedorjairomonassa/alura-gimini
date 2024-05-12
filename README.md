@@ -26,6 +26,12 @@ Criar um aplicativo de agente virtual que utilize inteligência artificial (IA) 
   
   Já estou analisando em colocar um documento de clt para dar mais credibilidade trazendo grounding.
 
+  Análise evolução da arquitetura:
+
+  1 - Utilizando cloud run para criar o indíce e outro para fazer os RAG
+  <img src="Captura de tela 2024-05-11 221723.png" alt="Descrição da imagem">
+  
+
   # 4.Nome do aplicativo
 
    Justiça na mão ou Justiça na Palma da mão
