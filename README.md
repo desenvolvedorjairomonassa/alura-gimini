@@ -17,6 +17,8 @@ Criar um aplicativo de agente virtual que utilize inteligência artificial (IA) 
 - **Fornecer informações personalizadas**: O agente virtual também poderá fornecer informações personalizadas com base na situação específica do trabalhador. Para isso, o trabalhador poderá fornecer informações sobre seu caso, como tipo de contrato, cargo, tempo de serviço, etc.
 - **Indicar um advogado**: Se o trabalhador precisar de um suporte mais especializado ou para com processo na justiça, o aplicativo poderá indicar um advogado mais perto de sua região. O aplicativo também poderá enviar ao advogado uma sumarização da --conversa entre o trabalhador e o agente virtual, com a autorização do mesmo.
 - **Permitir o envio de dúvidas por texto ou voz**: O trabalhador poderá enviar suas dúvidas ao aplicativo por texto ou voz, de acordo com sua preferência.
+- **Permitir que explique sobre um documento, ou relatório**: Se o RH fornecer um documento para assinar, como uma notificação sobre uma possível violação das políticas da empresa que pode resultar em demissão por justa causa, mas você não entendeu completamente devido à linguagem jurídica complicada, você pode digitalizar o documento e solicitar uma explicação antes de assinar.
+- **Dúvidas sobre o Contracheque**: Se você ficar com dúvidas sobre os descontos no seu contracheque e não entender completamente, não hesite em pedir ajuda para esclarecer.
 
   # 3.Arquitetura
 
