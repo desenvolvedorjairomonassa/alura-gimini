@@ -43,6 +43,10 @@ Criar um aplicativo de agente virtual que utilize inteligência artificial (IA) 
   
    <img src="Captura de tela 2024-05-11 221939.png" alt="Descrição da imagem">
    
+  4- ** Arquitetura para receber um documento ou contrato do trabalhador**:
+  os documentos são sumarizados e retornado ao trabalhador de forma mais simples e de fácil entendimento
+  
+  <img src="Captura de tela 2024-05-12 124826.png">
   
   # 4.Nome do aplicativo
 
